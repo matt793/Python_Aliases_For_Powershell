@@ -2,7 +2,7 @@
 After running this powershell script you will have python/bash aliases for powershell. Print in powershell, will mean the same as print in python.
 
 ## The Script
-When you run the .ps1 it will add in all the ALIASES for you. In this script you will find all the following commands. 
+When you run the .ps1 file it will add in all the ALIASES for you. In this script you will find all the following commands. 
 
 ![Example](Screenshot.PNG "Example")
 
