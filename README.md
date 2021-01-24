@@ -5,21 +5,22 @@ After running this powershell script you will have python/bash aliases for power
 When you run the .ps1 it will add in all the ALIASES for you. In this script you will find all the following commands. 
 
 ## Creat a print function
-  Set-Alias -Name print -Value Write-Host  
+   Set-Alias -Name print -Value Write-Host  
 
 ## Creat a simpler colored text function
-  Set-Alias -Name Fore -Value ForegroundColor
+   Set-Alias -Name Fore -Value ForegroundColor
   
 ## Creat a simpler colored background function
-  Set-Alias -Name Back -Value BackgroundColor
+   Set-Alias -Name Back -Value BackgroundColor
   
 ## Creat a pipe-able print function
-  Set-Alias -Name prints -Value Write-Output
+   Set-Alias -Name prints -Value Write-Output
   
 ## Creat a input function
-  Set-Alias -Name input -Value Read-Host
+   Set-Alias -Name input -Value Read-Host
   
 ## Creat a Linux touch function 
+  
   Set-Alias -Name touch -Value New-Item
 
 
