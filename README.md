@@ -4,6 +4,8 @@ After running this powershell script you will have python/bash aliases for power
 ## The Script
 When you run the .ps1 it will add in all the ALIASES for you. In this script you will find all the following commands. 
 
+![Example](Screenshot.png "Example")
+
 ## Creat a print function
    `Set-Alias -Name print -Value Write-Host`  
 
@@ -25,4 +27,4 @@ When you run the .ps1 it will add in all the ALIASES for you. In this script you
 
 
 ## More to come
-As I learn about more cmdlet's for aliases to come.
+As I learn about more cmdlet's for aliases I will add more to this script.
