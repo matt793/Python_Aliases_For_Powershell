@@ -25,6 +25,8 @@ When you run the .ps1 file it will add in all the ALIASES for you. In this scrip
   
   `Set-Alias -Name touch -Value New-Item`
 
+## Path
+When you run the `PythonPathMaker.ps1` file, it will calls in the aliases to import when you type `$profile`. Read script's comments for extra instructions. 
 
 ## More to come
 As I learn about more cmdlet's for aliases I will add more to this script.
