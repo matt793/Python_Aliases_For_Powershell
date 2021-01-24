@@ -1,4 +1,4 @@
-﻿# This powershell script adds Aliases to powershell, that make commands closer to python/linux.
+﻿# This powershell script adds Aliases to powershell, that make commands closer to python/bash.
 
 Set-Alias -Name print -Value Write-Host  
 
